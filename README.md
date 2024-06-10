@@ -3,6 +3,11 @@
 R - Gerenciamento de dados que centraliza e consolida grandes quantidades de dados de várias fontes.  
 ### Para que serve ?
 R - Projetado para fornecer suporte às atividades de business intelligence (BI).
+
+### Importante: 
+
+      1. Execute uma cópia(dump) do seu banco de dados alvo para não utilizar o banco de produção para relatórios.
+
 ### Etapas de implementação
 #### 1. Kickoff do projeto:
       1.1 Definir benchmark para ROI
